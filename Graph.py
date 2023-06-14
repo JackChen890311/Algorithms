@@ -63,14 +63,14 @@ if __name__ == '__main__':
         adjacent[e[0]].append(e[1])
         adjacent[e[1]].append(e[0])
 
+    print('DFS: ')
     dfsM(matrix,0)
-    print("")
+    print('\nBFS: ')
     bfsM(matrix,0)
 
-    print("")
-
+    print('\nDFS: ')
     dfsA(adjacent,0)
-    print("")
+    print('\nBFS: ')
     bfsA(adjacent,0)
 
 
