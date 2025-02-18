@@ -1,5 +1,11 @@
-# Algorithms Practice
+# Algorithms
+Collection of some algorithms practice by Jack Chen.
+
 Including:
 - Common Sorting
 - DFS / BFS on BT / Graph
-- pre/in/post-order traverse on BT
+- Pre / In/ Post-order Traverse on BT
+- Different Copy in Python
+- Union Find (Disjoint Set)
+- Strongly Connected Component
+- Convolution
