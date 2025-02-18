@@ -8,4 +8,7 @@ Including:
 - Different Copy in Python
 - Union Find (Disjoint Set)
 - Strongly Connected Component
+  
+Others:
 - Convolution
+- Template for Leetcode Contest
